@@ -5,9 +5,9 @@ The dataset consisted of financial and demographic information about loan applic
 
 I followed the standarg stages in the supervised machine learning process, including:
 Data preprocessing/cleaning,
-Scaling,
-Train-test split,
-Model selection and training using LogisticRegression, and
-Model evaluation using a confusion matrix and classification report.
+scaling,
+train-test split,
+model selection and training using LogisticRegression, and
+model evaluation using a confusion matrix and classification report.
 
 Results:
