@@ -4,7 +4,7 @@ The purpose of this analysis was to design and evaluate machine learning models 
 
 The dataset consisted of financial and demographic information about loan applicants. When focusing on the "loan_status" column, 0 represented a healthy loan and 1 represented a high-risk loan. As I analyzed the data as a whole, I found significantly more healthy loans accounted for when compared to high-risk ones.
 
-I followed the standarg stages in the supervised machine learning process, including:
+I followed the standard stages in the supervised machine learning process, including:
 Data preprocessing/cleaning,
 scaling,
 train-test split,
