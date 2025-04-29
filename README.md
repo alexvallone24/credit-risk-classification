@@ -10,6 +10,14 @@ train-test split,
 model selection and training using LogisticRegression, and
 model evaluation using a confusion matrix and classification report.
 
-Results:
-sss
-sss
+Machine Learning Model Results:
+
+Accuracy Score: 0.99
+
+Precision Score (class 0): 1.00
+
+Precision Score (class 1): 0.84
+
+Recall Score (class 0): 0.99
+
+Recall Score (class 1): 0.94
