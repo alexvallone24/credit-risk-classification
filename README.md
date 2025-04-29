@@ -23,6 +23,9 @@ Recall Score (class 0): 0.99
 
 Recall Score (class 1): 0.94
 
+
 Summary:
 
-aaa
+The logistic regression model concluded to be 99% accurate, showing excellent performance in classifying loan risk. Specifically, it was highly effective at identifying high-risk loans with a recall of 0.94. The precision score of 0.84 means that it was correct 84% of the time when predicting if a loan was high-risk.  
+
+Since the model has a high recall of identifying high-risk loans, this makes it very useful in a real-world scenario as it decreases the chance of creating false negatives. Therefore, I would strongly recommend this logistic regression model as its high accuracy and recall performance makes it a reliable source to turn to. 
